@@ -1,1 +1,1 @@
-calulator app using html, css and javascript
+This Calculator App is a simple yet functional web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations like addition, subtraction, multiplication, and division with a clean, responsive design.
